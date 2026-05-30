@@ -53,7 +53,7 @@ Status: Present
 Enter clock-in time: 10
 Enter clock-out time: 18
 
-Status: Late Arrival
+Status: short day
 ```
 
 ```text

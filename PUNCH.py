@@ -21,7 +21,7 @@ A simple Python program that checks employee attendance based on clock-in and cl
 ```text
 clock-time-attendance/
 │
-├── clock_time.py
+├── PUNCH.py
 └── README.md
 ```
 
@@ -66,7 +66,7 @@ Status: Overtime
 ## ▶️ Run the Program
 
 ```bash
-python arnav.py
+python PUNCH.py
 ```
 
 ## 📖 Concepts Used

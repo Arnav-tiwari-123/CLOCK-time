@@ -66,7 +66,7 @@ Status: Overtime
 ## ▶️ Run the Program
 
 ```bash
-python clock_time.py
+python arnav.py
 ```
 
 ## 📖 Concepts Used

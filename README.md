@@ -15,10 +15,10 @@ A simple Python-based Punch Time Attendance System that checks employee attendan
 | Punch In | Punch Out | Status |
 |-----------|------------|---------|
 | 9 | 18 | Present |
-| < 12 | 18 | half day |
+| > 12 | 18 | half day |
 | > 9 | 18 | SHORT DAY |
 | Any | > 18 | Overtime |
-| Any | < 18 | Short Day |
+| > 15 | < 18 | Short Day |
 | Any | <= 15 | Half Day |
 
 ## 🛠️ Technology
